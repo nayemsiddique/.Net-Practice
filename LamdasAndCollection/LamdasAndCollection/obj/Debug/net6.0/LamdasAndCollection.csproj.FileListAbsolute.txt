@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\bin\Debug\net6.0\LamdasAndCollection.exe
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\bin\Debug\net6.0\LamdasAndCollection.deps.json
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\bin\Debug\net6.0\LamdasAndCollection.runtimeconfig.json
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\bin\Debug\net6.0\LamdasAndCollection.dll
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\bin\Debug\net6.0\LamdasAndCollection.pdb
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.dll
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\refint\LamdasAndCollection.dll
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.pdb
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\LamdasAndCollection.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LamdasAndCollection\LamdasAndCollection\obj\Debug\net6.0\ref\LamdasAndCollection.dll
